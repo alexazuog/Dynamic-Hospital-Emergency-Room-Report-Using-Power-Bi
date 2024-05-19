@@ -1,6 +1,8 @@
 # Dynamic-Hospital-Emergency-Room-Report-Using-Power-Bi
 ## **Project-Overview**
 #### This report evaluates the quality of service provided to patients during their visits to the emergency department. The data collection methodology that was used was patient satisfaction surveys.
+![hosp_emer_dashbord](https://github.com/alexazuog/Dynamic-Hospital-Emergency-Room-Report-Using-Power-Bi/assets/115574934/b4808874-47b2-4857-957c-7908d110b525)
+
 ## **Understanding The Data-set**
 #### The data set contains records of patients' emergency room visits. The data contains the date of the patient’s visit, patient ID, patient age, patient wait time before being attended to, patient satisfaction score, etc.
 
